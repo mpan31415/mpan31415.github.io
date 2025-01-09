@@ -8,6 +8,6 @@ related_posts: false
 
 **"A Review of Differentiable Simulators"**
 
-*Authors*: Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun
+*Authors* : Rhys Newbury, Jack Collins, Kerry He, **Jiahe Pan**, Ingmar Posner, David Howard, Akansel Cosgun
 
-*Institutions*: Australian National University, Monash University, University of Oxford, University of Melbourne, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Deakin University
+*Institutions* : Australian National University, Monash University, University of Oxford, University of Melbourne, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Deakin University

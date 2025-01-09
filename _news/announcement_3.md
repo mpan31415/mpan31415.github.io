@@ -8,6 +8,6 @@ related_posts: false
 
 **"FaceVis: Exploring a Robot's Face for Affective Visualisation Design"**
 
-*Authors*: Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves, Wafa Johal
+*Authors* : Sarah Schömbs, **Jiahe Pan**, Yan Zhang, Jorge Goncalves, Wafa Johal
 
-*Institution*: University of Melbourne
+*Institution* : University of Melbourne

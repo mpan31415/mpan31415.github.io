@@ -8,6 +8,6 @@ related_posts: false
 
 **"Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory Tracking"**
 
-*Authors*: **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal
+*Authors* : **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal
 
-*Institution*: University of Melbourne
+*Institution* : University of Melbourne

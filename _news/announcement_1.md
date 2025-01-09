@@ -8,6 +8,6 @@ related_posts: false
 
 **"Variable Grasp Pose and Commitment for Trajectory Optimization"**
 
-*Authors*: **Jiahe Pan**, Kerry He, Jia Ming Ong, Akansel Cosgun
+*Authors* : **Jiahe Pan**, Kerry He, Jia Ming Ong, Akansel Cosgun
 
-*Institutions*: University of Melbourne, Monash University, Deakin University
+*Institutions* : University of Melbourne, Monash University, Deakin University

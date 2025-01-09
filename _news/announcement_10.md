@@ -8,6 +8,6 @@ related_posts: false
 
 **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"**
 
-*Authors*: **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal
+*Authors* : **Jiahe Pan**, Jonathan Eden, Denny Oetomo, Wafa Johal
 
-*Institution*: University of Melbourne
+*Institution* : University of Melbourne
