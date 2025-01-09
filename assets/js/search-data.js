@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/template/";
-            },},{id: "news-a-full-paper-accepted-at-ieee-hora-2023",
+        },{id: "news-a-full-paper-accepted-at-ieee-hora-2023",
           title: '🎉 A full paper accepted at IEEE HORA 2023',
           description: "",
           section: "News",handler: () => {
