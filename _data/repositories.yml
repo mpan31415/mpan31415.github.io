@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mpan31415
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mpan31415/rpg_trajectory_evaluation
+  - mpan31415/RL_Sutton
+  - mpan31415/CV_Szeliski
+  - mpan31415/deep-learning-v2-pytorch
+  - mpan31415/woa_tiago
+  - mpan31415/ultralytics_ros
+  - mpan31415/SCvx

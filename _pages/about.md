@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: left
   image: my_profile_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>ETH Zürich</p>
     <p>8006 Zürich, Switzerland</p>
