@@ -2,16 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Masters student in Robotics, Systems and Control at <a href='#'>ETH Z\"{u}rich</a>.
+# subtitle: Masters student in Robotics, Systems and Control at <a href='#'>ETH Z\"{u}rich</a>.
 
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ETH Z\"{u}rich</p>
-    # <p>123 your address street</p>
-    <p>8006 Zurich, Switzerland</p>
+    <p>ETH Zürich</p>
+    <p>8006 Zürich, Switzerland</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
