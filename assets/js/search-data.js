@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "Click the button on the right to download the CV as a PDF.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -57,18 +57,55 @@ ninja.data = [{
             },},{id: "news-graduated-from-the-university-of-melbourne-with-a-bachelor-of-science-degree-in-mechatronics-engineering-first-class-honours",
           title: 'Graduated from The University of Melbourne with a Bachelor of Science degree in...',
           description: "",
-          section: "News",},{id: "projects-rocket-docking-maneuver",
-          title: 'Rocket docking maneuver',
+          section: "News",},{id: "news-a-late-breaking-paper-accepted-at-acm-chi-2023",
+          title: '🎉 A late-breaking paper accepted at ACM CHI 2023',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-admitted-to-masters-programs-in-robotics-at-both-eth-zürich-and-epfl",
+          title: 'Admitted to Masters programs in Robotics at both ETH Zürich and EPFL',
+          description: "",
+          section: "News",},{id: "news-the-officemate-team-unimelb-won-1st-place-in-the-office-assistant-robot-competition-at-hri-2024",
+          title: '🏆 The ‘OfficeMate’ (Team UniMelb) won 1st-place in the Office Assistant Robot Competition...',
+          description: "",
+          section: "News",},{id: "news-a-paper-accepted-by-ieee-robotics-and-automation-letters-ra-l",
+          title: '🎉 A paper accepted by IEEE Robotics and Automation Letters (RA-L)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-a-paper-accepted-by-ieee-access",
+          title: '🎉 A paper accepted by IEEE Access',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-began-my-masters-studies-in-robotics-systems-and-control-at-eth-zürich",
+          title: 'Began my Masters studies in Robotics, Systems and Control at ETH Zürich',
+          description: "",
+          section: "News",},{id: "news-attended-swiss-robotics-day-2024-in-basel-switzerland",
+          title: 'Attended Swiss Robotics Day 2024 in Basel, Switzerland',
+          description: "",
+          section: "News",},{id: "news-a-full-paper-accepted-at-acm-ieee-hri-2025",
+          title: '🎉 A full paper accepted at ACM/IEEE HRI 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
+            },},{id: "news-two-late-breaking-papers-accepted-at-acm-ieee-hri-2025",
+          title: '🎉 Two late-breaking papers accepted at ACM/IEEE HRI 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
+            },},{id: "projects-monocular-visual-odometry-pipeline",
+          title: 'Monocular Visual Odometry pipeline',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-autonomous-lane-changing-maneuver",
-          title: 'Autonomous lane-changing maneuver',
+            },},{id: "projects-rocket-docking-maneuver",
+          title: 'Rocket docking maneuver',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-monocular-visual-odometry-pipeline",
-          title: 'Monocular Visual Odometry pipeline',
+            },},{id: "projects-autonomous-lane-changing-maneuver",
+          title: 'Autonomous lane-changing maneuver',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
