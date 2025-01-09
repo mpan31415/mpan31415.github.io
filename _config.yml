@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Michael Pan # the website title (if blank, full name will be used instead)
-first_name: Jiahe
-middle_name: (Michael)
+title: Michael (Jiahe) Pan # the website title (if blank, full name will be used instead)
+first_name: Michael
+middle_name: (Jiahe)
 last_name: Pan
 contact_note: >
   For academic collaborations, please contact me via email.
@@ -109,7 +109,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -228,8 +228,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pan]
+  first_name: [Jiahe]
 
   style: apa
   locale: en
