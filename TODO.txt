@@ -1,5 +1,5 @@
 
 
-1. update CV page (accordingly to CV PDF) -> [/assets/json/resume.json]
-2. update projects -> [/_projects]
-3. update news -> [/_news]
+- update CV page (accordingly to CV PDF) -> [/assets/json/resume.json]
+- update projects -> [/_projects]
+- update papers

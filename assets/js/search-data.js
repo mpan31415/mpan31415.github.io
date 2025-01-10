@@ -89,21 +89,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
-            },},{id: "projects-monocular-visual-odometry-pipeline",
-          title: 'Monocular Visual Odometry pipeline',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-rocket-docking-maneuver",
-          title: 'Rocket docking maneuver',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-autonomous-lane-changing-maneuver",
           title: 'Autonomous lane-changing maneuver',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/lane_changing/";
+            },},{id: "projects-rocket-docking-maneuver",
+          title: 'Rocket docking maneuver',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rocket_docking/";
+            },},{id: "projects-monocular-visual-odometry-pipeline",
+          title: 'Monocular Visual Odometry pipeline',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vo_pipeline/";
             },},{
         id: 'social-email',
         title: 'email',
