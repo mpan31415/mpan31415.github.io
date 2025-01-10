@@ -3,7 +3,7 @@ layout: page
 title: Monocular Visual Odometry pipeline
 # description: with background image
 # img: assets/img/1.jpg
-img: assets/project_assets/vo_pipeline.gif
+img: assets/projects/vo_pipeline/thumbnail.png
 importance: 1
 # category: work
 # related_publications: true
