@@ -89,6 +89,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
+            },},{id: "news-won-the-best-project-prize-in-the-task-gaussian-process-regression-for-air-pollution-prediction-for-the-course-probabilistic-ai-taught-by-prof-andreas-krause-at-eth-zürich",
+          title: 'Won the best-project prize in the task - Gaussian Process Regression for Air...',
+          description: "",
+          section: "News",},{id: "projects-gaussian-process-regression-pollution-prediction",
+          title: 'Gaussian Process Regression - Pollution Prediction',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gp_pollution_pred/";
             },},{id: "projects-autonomous-lane-changing-maneuver",
           title: 'Autonomous lane-changing maneuver',
           description: "",
