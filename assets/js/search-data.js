@@ -73,11 +73,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
-            },},{id: "news-began-my-masters-studies-in-robotics-systems-and-control-at-eth-zürich",
-          title: 'Began my Masters studies in Robotics, Systems and Control at ETH Zürich',
+            },},{id: "news-began-my-masters-studies-in-robotics-systems-and-control-rsc-at-eth-zürich",
+          title: 'Began my Masters studies in Robotics, Systems and Control (RSC) at ETH Zürich...',
           description: "",
           section: "News",},{id: "news-attended-swiss-robotics-day-2024-in-basel-switzerland",
-          title: 'Attended Swiss Robotics Day 2024 in Basel, Switzerland',
+          title: '🇨🇭 Attended Swiss Robotics Day 2024 in Basel, Switzerland',
           description: "",
           section: "News",},{id: "news-a-full-paper-accepted-at-acm-ieee-hri-2025",
           title: '🎉 A full paper accepted at ACM/IEEE HRI 2025',
@@ -90,10 +90,10 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
             },},{id: "news-won-the-best-project-prize-in-the-task-gaussian-process-regression-for-air-pollution-prediction-for-the-course-probabilistic-ai-taught-by-prof-andreas-krause-at-eth-zürich",
-          title: 'Won the best-project prize in the task - Gaussian Process Regression for Air...',
+          title: '🏆 Won the best-project prize in the task - Gaussian Process Regression for...',
           description: "",
-          section: "News",},{id: "news-began-my-semester-project-in-the-robotics-and-perception-group-at-the-university-of-zürich-supervised-by-prof-davide-scaramuzza",
-          title: 'Began my Semester Project in the Robotics and Perception Group at The University...',
+          section: "News",},{id: "news-began-my-semester-thesis-supervised-by-prof-davide-scaramuzza-in-the-robotics-and-perception-group-university-of-zürich",
+          title: 'Began my Semester Thesis supervised by Prof. Davide Scaramuzza in the Robotics and...',
           description: "",
           section: "News",},{id: "projects-gaussian-process-regression-pollution-prediction",
           title: 'Gaussian Process Regression - Pollution Prediction',
