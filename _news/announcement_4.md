@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Admitted to Masters programs in Robotics at both ETH Zürich and EPFL
+Admitted to Masters programs in Robotics at both **ETH Zürich** and **EPFL**

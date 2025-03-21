@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Jiahe (Michael) Pan",
-    "role": "MSc student in Robotics, Systems and Control at ETH Zürich",
+    "name": "Michael (Jiahe) Pan",
+    "role": "MSc. student in Robotics, Systems and Control at ETH Zürich",
     "image": "",
     "email": "michael.pan31415@gmail.com",
     "homepage": "https://mpan31415.github.io/",
-    "intro": "A curious and passionate roboticist interested in enabling robots to efficiently and robustly interact with people and objects in the world through technical methods from the areas of control and learning.",
+    "intro": "I am passionate about achieving physical robotic intelligence through novel learning paradigms and real-world interaction, especially in contact-rich tasks involving dexterous manipulation.",
     "location": {
       "address": "Sonneggstrasse 17",
       "postalCode": "8006 Zürich",
@@ -14,7 +14,7 @@
       "region": "Zürich"
     }
   },
-  "work": [
+  "research": [
     {
       "name": "Monash Robotics Lab, Monash University",
       "position": "Research Assistant",
@@ -22,9 +22,9 @@
       "endDate": "2023-06-08",
       "summary": "Designed and implemented a novel motion planning algorithm for integrated grasp selection and trajectory optimization for robotic arms in cluttered workspaces. The algorithm incorporate three key ideas:",
       "highlights": [
-        "Parametric grasp selection using Bayesian optimization",
-        "Trajectory initialization using sampling-based planning (RRT-Connect)",
-        "Trust-region SQP trajectory optimization in a receding-horizon style with gradual constraint-tightening for enhanced computational efficiency"
+        "Parametric grasp selection using Bayesian optimization.",
+        "Trajectory initialization using sampling-based planning (RRT-Connect).",
+        "Trust-region SQP trajectory optimization in a receding-horizon style with gradual constraint-tightening for enhanced computational efficiency."
       ]
     },
     {
@@ -32,13 +32,23 @@
       "position": "Research Assistant",
       "startDate": "2024-01-01",
       "endDate": "2024-07-30",
-      "summary": "Conducted various research projects in human-robot interaction, ranging from teleoperation with varying robot autonomy to designing and implementing an office assistant robot.",
+      "summary": "Led various robotics research projects ranging from adaptive autonomy in human-robot shared control to designing and implementing an office assistant robot.",
       "highlights": [
-        "Modeling performance in shared control robot teleoperation using Fitts' Law. Designed and implemented tracking and convex-blending controllers for shared control in a target-reaching task.",
-        "Investigated the effects of shared control on a human teleoperator's cognitive load and trust. Designed and implemented a trajectory-tracking task with robot teleoperation using a haptic controller.",
-        "Explored the use of a Robot's face (Furhat) for affective visualization of complex real-world data.",
-        "Designed an office assistant robot (TIAGo), implementing autonomous navigation, person-tracking and following, natural language communication, object detection and manipulation with arm trajectory control.",
-        "Investigated motion-capture-based robot teleoperation using augmented-reality to enhance performance and user perception. Implemented human arm motion mapping and robot arm trajectory generation."
+        "Modeling performance in human-robot shared control using Fitts' Law. Designed and implemented tracking and convex-blending controllers for a target-reaching task.",
+        "Studied the effects of shared control on a human teleoperator's cognitive load and trust. Designed and implemented a trajectory-tracking task with a haptic controller interface.",
+        "Explored using a robot (Furhat) for affective visualization of complex real-world data.",
+        "Designed an office assistant robot (TIAGo), implementing autonomous navigation, person-tracking and following, natural language conversation and understanding, object detection and manipulation with arm trajectory control.",
+        "Investigated motion-capture-based robot teleoperation using augmented-reality to enhance performance and user perception. Implemented trajectory mapping and generation."
+      ]
+    },
+    {
+      "name": "Robotics and Perception Group, University of Zürich",
+      "position": "Semester Thesis Student",
+      "startDate": "2025-03-17",
+      "endDate": "2025-07-31",
+      "summary": "Working on data-driven differentiable simulation for learning quadrotor control in scenarios with complex aerodynamics.",
+      "highlights": [
+        "In progress ..."
       ]
     }
   ],
@@ -53,7 +63,7 @@
       "endDate": "2026-06-30",
       "score": "10",
       "courses": [
-        "Reinforcement learning, Robot dynamics, Applied deep learning, Probabilistic AI, Computer vision, Motion planning, Dynamic programming and optimal control",
+        "Reinforcement learning, Robot dynamics, Deep learning, Probabilistic AI, Computer vision, Motion planning, Dynamic programming, Distributed control, Computational motion modeling",
         "Tutor: Prof. Robert Riener (Sensory-Motor Systems Lab)"
       ]
     },

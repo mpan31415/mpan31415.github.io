@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began my Masters studies in Robotics, Systems and Control at ETH Zürich
+Began my Masters studies in **Robotics, Systems and Control (RSC)** at ETH Zürich
