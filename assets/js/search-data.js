@@ -77,7 +77,7 @@ ninja.data = [{
           title: 'Began my Masters studies in Robotics, Systems and Control (RSC) at ETH Zürich...',
           description: "",
           section: "News",},{id: "news-attended-swiss-robotics-day-2024-in-basel-switzerland",
-          title: '🇨🇭 Attended Swiss Robotics Day 2024 in Basel, Switzerland',
+          title: 'Attended Swiss Robotics Day 2024 in Basel, Switzerland',
           description: "",
           section: "News",},{id: "news-a-full-paper-accepted-at-acm-ieee-hri-2025",
           title: '🎉 A full paper accepted at ACM/IEEE HRI 2025',
