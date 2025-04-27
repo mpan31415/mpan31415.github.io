@@ -6,7 +6,8 @@ permalink: /
 
 profile:
   align: left
-  image: my_profile_pic.png
+  # image: my_profile_pic_unimelb.png
+  image: meggenhorn_portrait.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>ETH Zürich</p>
