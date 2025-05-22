@@ -4,7 +4,7 @@ title: Monocular Visual Odometry pipeline
 # description: with background image
 # img: assets/img/1.jpg
 img: assets/projects/vo_pipeline/thumbnail.png
-importance: 1
+importance: 2
 # category: work
 # related_publications: true
 # redirect: https://unsplash.com

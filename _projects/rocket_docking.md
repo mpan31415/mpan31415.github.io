@@ -3,7 +3,7 @@ layout: page
 title: Rocket docking maneuver
 # description: with background image
 img: assets/projects/rocket_docking/thumbnail.png
-importance: 1
+importance: 3
 # category: work
 # related_publications: true
 # redirect: https://unsplash.com

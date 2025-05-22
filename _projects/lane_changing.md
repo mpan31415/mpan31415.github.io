@@ -3,7 +3,7 @@ layout: page
 title: Autonomous lane-changing maneuver
 # description: with background image
 img: assets/projects/lane_change/thumbnail.png
-importance: 1
+importance: 3
 # category: work
 # related_publications: true
 # redirect: https://unsplash.com
