@@ -3,7 +3,7 @@
     "name": "Michael (Jiahe) Pan",
     "role": "MSc. student in Robotics, Systems and Control at ETH Zürich",
     "image": "",
-    "email": "michael.pan31415@gmail.com",
+    "email": "jiapan@student.ethz.ch",
     "homepage": "https://mpan31415.github.io/",
     "intro": "I am passionate about achieving physical robotic intelligence through novel learning paradigms and real-world interaction, especially in contact-rich tasks involving dexterous manipulation.",
     "location": {
@@ -20,35 +20,31 @@
       "position": "Research Assistant",
       "startDate": "2023-02-01",
       "endDate": "2023-06-08",
-      "summary": "Designed and implemented a novel motion planning algorithm for integrated grasp selection and trajectory optimization for robotic arms in cluttered workspaces. The algorithm incorporate three key ideas:",
+      "summary": "Supervisor: Prof. Akansel Cosgun",
       "highlights": [
-        "Parametric grasp selection using Bayesian optimization.",
-        "Trajectory initialization using sampling-based planning (RRT-Connect).",
-        "Trust-region SQP trajectory optimization in a receding-horizon style with gradual constraint-tightening for enhanced computational efficiency."
+        "Developed a novel motion planning framework for integrated grasp selection and trajectory optimization for robotic arms operating in cluttered environments.",
+        "Combined Bayesian optimization for grasp selection, sampling-based trajectory initialization (RRT-Connect), and receding-horizon SQP optimization with constraint-tightening; evaluated performance in simulation (Gazebo) and on the Fetch robot hardware."
       ]
     },
     {
-      "name": "Human-Robotics Lab, University of Melbourne",
+      "name": "Computational HRI Lab (CHRI), University of Melbourne",
       "position": "Research Assistant",
       "startDate": "2024-01-01",
       "endDate": "2024-07-30",
-      "summary": "Led various robotics research projects ranging from adaptive autonomy in human-robot shared control to designing and implementing an office assistant robot.",
+      "summary": "Supervisors: Dr. Jonathan Eden, Prof. Wafa Johal, Prof. Denny Oetomo",
       "highlights": [
-        "Modeling performance in human-robot shared control using Fitts' Law. Designed and implemented tracking and convex-blending controllers for a target-reaching task.",
-        "Studied the effects of shared control on a human teleoperator's cognitive load and trust. Designed and implemented a trajectory-tracking task with a haptic controller interface.",
-        "Explored using a robot (Furhat) for affective visualization of complex real-world data.",
-        "Designed an office assistant robot (TIAGo), implementing autonomous navigation, person-tracking and following, natural language conversation and understanding, object detection and manipulation with arm trajectory control.",
-        "Investigated motion-capture-based robot teleoperation using augmented-reality to enhance performance and user perception. Implemented trajectory mapping and generation."
+        "Conducted research in shared autonomy, human-robot interaction, and teleoperation, including modeling user performance with Fitts' Law, analyzing cognitive load and trust in shared control, and developing systems for robot teleoperation using haptic and motion capture interfaces.",
+        "Implemented shared control policies, autonomous navigation, visual perception, natural language interaction, and mobile manipulation (TIAGo); developed custom controllers, trajectory generation pipelines, and human-robot interfaces using haptic devices and AR."
       ]
     },
     {
-      "name": "Robotics and Perception Group, University of Zürich",
-      "position": "Thesis Student",
+      "name": "Robotics and Perception Group (RPG), The University of Zürich",
+      "position": "Graduate Student Researcher",
       "startDate": "2025-03-17",
       "endDate": "2025-07-31",
-      "summary": "Working on data-driven differentiable simulation for learning quadrotor control in scenarios with complex aerodynamics.",
+      "summary": "Supervisor: Prof. Davide Scaramuzza",
       "highlights": [
-        "In progress ..."
+        "Working on data-driven differentiable simulation for learning agile and real-time adaptive quadrotor control in scenarios with complex and time-varying aerodynamics."
       ]
     }
   ],
@@ -63,7 +59,8 @@
       "endDate": "2026-06-30",
       "score": "10",
       "courses": [
-        "Reinforcement learning, Robot dynamics, Deep learning, Probabilistic AI, Computer vision, Motion planning, Dynamic programming, Distributed control, Computational motion modeling",
+        "Current GPA: 5.7/6.0",
+        "Reinforcement learning, Deep learning, Probabilistic AI, Computer vision, Motion planning, Computational motion modeling, Distributed control, Dynamic programming, Robot dynamics",
         "Tutor: Prof. Robert Riener (Sensory-Motor Systems Lab)"
       ]
     },
@@ -77,14 +74,20 @@
       "endDate": "2023-11-30",
       "score": "10",
       "courses": [
-        "System modeling, analysis and control; Mechanical and electronics; Machine learning and AI",
         "Grade: 87.7/100 (First Class Honors)",
         "Dean's Honors List 2023 (top 3% of all BSc students)",
-        "Thesis supervisors: Dr. Jonathan Eden, Prof. Wafa Johal, Prof. Denny Oetomo"
+        "System modeling, analysis and control; Mechanical and electronics; Machine learning and AI"
       ]
     }
   ],
   "awards": [
+    {
+      "title": "Best Project Award for the Probabilistic AI course (Prof. Andreas Krause)",
+      "date": "2024-12-18",
+      "awarder": "ETH Zürich",
+      "url": "https://las.inf.ethz.ch/teaching/pai-f24",
+      "summary": "The task involved Gaussian Process regression for air pollution prediction, and the student's innovative solution addressed several issues such as scaling/computational cost and hyperparameter selection. The student's team was selected as best among 297 teams."
+    },
     {
       "title": "1st-place in the Office Assistant Robot Competition at HRI'24 (Boulder, Colorado)",
       "date": "2024-03-15",
@@ -120,11 +123,10 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "- Experience working with real robotic platforms (Franka Panda, Fetch, TIAGo, Furhat, UR3)",
-        "- Knowledge of optimization and sampling-based planners for motion planning and trajectory optimization. Understandings of reinforcement learning, imitation learning, and learning from demonstration",
-        "- Understanding of clearly defining research questions, developing methods for evaluation, and publishing as first author and co-author in both independent and collaborative research projects",
-        "- Proficient in designing and conducting experimental validations and user studies, collecting data through physiological measures, questionnaires, and interviews, and performing statistical analysis using hypothesis tests and mixed models",
-        "- Providing detailed peer-reviews for paper submissions"
+        "- Hands-on experience with robotic platforms: Franka Panda, Fetch, TIAGo, Furhat, UR3, quadrotors.",
+        "- Theoretical and hands-on experience with reinforcement learning, imitation learning, motion planning & trajectory optimization, neural representations (NeRF), and policy learning in differentiable simulation.",
+        "- Independent and collaborative research project management, experimental design and implementation, data collection (simulation & real-world) and statistical analysis.",
+        "- Peer-reviewing for paper submissions (HRI'25)."
       ]
     },
     {
@@ -132,10 +134,8 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "- Proficient in Python, C++, C, R, MATLAB",
-        "- Familiar with Linux (Ubuntu), PyTorch, Git, Docker, Conda",
-        "- Proficient in ROS, ROS2, RViz, Gazebo; Theoretical understanding of differentiable physics simulators",
-        "- Familiar with motion planning libraries (MoveIt!, ROS Navigation, Tesseract ROS TrajOpt)"
+        "- Python, C++, C, R, MATLAB; Linux (Ubuntu), PyTorch, JAX, Git, Docker, Conda",
+        "- ROS, ROS2, IsaacGym, MuJoCo, Gazebo; MoveIt!, ROS Nav, TrajOpt, cvxpy, CasADi."
       ]
     },
     {
@@ -143,8 +143,8 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "- G.tec EEG recording with 32-channel setup using dry electrodes on an EEG cap",
-        "- Basic understanding of Unity, Hololens 2, Meta Quest 2, OptiTrack motion-capture system"
+        "- G.tec EEG recording with 32-channel setup using dry electrodes on an EEG cap.",
+        "- Basic understanding of Unity, Hololens 2, Meta Quest 2, OptiTrack motion-capture systems."
       ]
     }
   ],
