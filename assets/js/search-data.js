@@ -95,7 +95,12 @@ ninja.data = [{
           section: "News",},{id: "news-began-my-semester-thesis-supervised-by-prof-davide-scaramuzza-in-the-robotics-and-perception-group-university-of-zürich",
           title: 'Began my Semester Thesis supervised by Prof. Davide Scaramuzza in the Robotics and...',
           description: "",
-          section: "News",},{id: "projects-gaussian-process-regression-pollution-prediction",
+          section: "News",},{id: "projects-deep-rl-for-motion-imitation",
+          title: 'Deep RL for Motion Imitation',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deepmimic/";
+            },},{id: "projects-gaussian-process-regression-pollution-prediction",
           title: 'Gaussian Process Regression - Pollution Prediction',
           description: "",
           section: "Projects",handler: () => {
@@ -105,11 +110,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lane_changing/";
+            },},{id: "projects-neural-radiance-fields-for-view-synthesis-nerf",
+          title: 'Neural Radiance Fields for View Synthesis (NeRF)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nerf/";
             },},{id: "projects-rocket-docking-maneuver",
           title: 'Rocket docking maneuver',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rocket_docking/";
+            },},{id: "projects-trajectory-optimization-for-quadrupedal-robot",
+          title: 'Trajectory Optimization for Quadrupedal Robot',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trajopt_mujoco/";
             },},{id: "projects-monocular-visual-odometry-pipeline",
           title: 'Monocular Visual Odometry pipeline',
           description: "",
