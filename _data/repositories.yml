@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - mpan31415/rpg_trajectory_evaluation
-  - mpan31415/RL_Sutton
-  - mpan31415/deep-learning-v2-pytorch
+  - mpan31415/IsaacGymEnvs
+  - mpan31415/AutonomyCLTrust
   - mpan31415/woa_tiago
-  - mpan31415/ultralytics_ros
-  - mpan31415/SCvx
+  - mpan31415/Grasp_TrajOpt
+  - mpan31415/AutonomyFitts
+  - mpan31415/rpg_trajectory_evaluation
