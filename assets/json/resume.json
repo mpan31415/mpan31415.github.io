@@ -5,7 +5,7 @@
     "image": "",
     "email": "jiapan@student.ethz.ch",
     "homepage": "https://mpan31415.github.io/",
-    "intro": "I am passionate about achieving physical robotic intelligence through novel learning paradigms and real-world interaction, especially in contact-rich tasks involving dexterous manipulation.",
+    "intro": "I am passionate about achieving physical robotic intelligence through novel learning paradigms and real-world interaction.",
     "location": {
       "address": "Sonneggstrasse 17",
       "postalCode": "8006 Zürich",
@@ -46,6 +46,16 @@
       "highlights": [
         "Working on data-driven differentiable simulation for learning agile and real-time adaptive quadrotor control in scenarios with complex and time-varying aerodynamics."
       ]
+    },
+    {
+      "name": "Berkeley AI Research (BAIR), UC Berkeley",
+      "position": "Visiting Student Researcher",
+      "startDate": "2025-09-15",
+      "endDate": "2026-04-17",
+      "summary": "Supervisors: Prof. Jitendra Malik (UC Berkeley), Prof. Stelian Coros (ETH Zürich)",
+      "highlights": [
+        "Working on robot manipulation and whole-body control, with a focus on learning dexterous and agile low-level skills from a mixture of real-world and simulator data."
+      ]
     }
   ],
   "education": [
@@ -56,12 +66,12 @@
       "area": "Robotics, Systems and Control",
       "studyType": "Master of Science",
       "startDate": "2024-09-17",
-      "endDate": "2026-06-30",
+      "endDate": "2026-08-30",
       "score": "10",
       "courses": [
-        "Current GPA: 5.74/6.0",
+        "Current GPA: 5.75/6.0",
         "Reinforcement learning, Deep learning, Probabilistic AI, Computer vision, Motion planning, Computational motion modeling, Distributed control, Dynamic programming, Robot dynamics",
-        "Tutor: Prof. Robert Riener (Sensory-Motor Systems Lab)"
+        "Thesis Supervisors: Prof. Jitendra Malik (UC Berkeley), Prof. Stelian Coros (ETH Zürich)"
       ]
     },
     {

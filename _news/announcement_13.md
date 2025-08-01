@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began my **Semester Thesis** supervised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) in the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/index.html), University of Zürich.
+🛰 Began my **Semester Thesis** supervised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html) in the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/index.html), University of Zürich.

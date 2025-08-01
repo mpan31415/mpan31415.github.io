@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
+🤖 Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
