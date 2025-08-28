@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Click the button on the right to download the CV as a PDF.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
@@ -45,7 +31,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "news-variable-grasp-pose-and-commitment-for-trajectory-optimization-is-accepted-at-hora-2023",
-          title: '🎉 “Variable Grasp Pose and Commitment for Trajectory Optimization” is accepted at HORA...',
+          title: '🎉 Variable Grasp Pose and Commitment for Trajectory Optimization is accepted at HORA...',
           description: "",
           section: "News",},{id: "news-graduated-from-bsc-mechatronics-engineering-university-of-melbourne-with-first-class-honours",
           title: '🎓 Graduated from BSc. Mechatronics Engineering (University of Melbourne) with First-Class Honours',
