@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-variable-grasp-pose-and-commitment-for-trajectory-optimization-is-accepted-at-hora-2023",
           title: '🎉 Variable Grasp Pose and Commitment for Trajectory Optimization is accepted at HORA...',
           description: "",
