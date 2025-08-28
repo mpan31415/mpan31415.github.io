@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 **"Using Fitts' Law to Benchmark Assisted Human-Robot Performance"** is accepted at HRI 2025!
+🎉 [Using Fitts' Law to Benchmark Assisted Human-Robot Performance](https://mpan31415.github.io/assets/pdf/papers/2025/HRI25_AutoFitts.pdf) is accepted at HRI 2025!

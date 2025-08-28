@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 **"OfficeMate: Pilot Evaluation of an Office Assistant Robot"** is accepted at HRI 2025
+🎉 [OfficeMate: Pilot Evaluation of an Office Assistant Robot](https://mpan31415.github.io/assets/pdf/papers/2025/HRI25_OfficeMate.pdf) is accepted at HRI 2025
