@@ -50,7 +50,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
             },},{id: "news-graduated-from-the-university-of-melbourne-with-a-bachelor-of-science-degree-in-mechatronics-engineering-first-class-honours",
-          title: 'Graduated from The University of Melbourne with a Bachelor of Science degree in...',
+          title: '🎓 Graduated from The University of Melbourne with a Bachelor of Science degree...',
           description: "",
           section: "News",},{id: "news-a-late-breaking-paper-accepted-at-acm-chi-2023",
           title: '🎉 A late-breaking paper accepted at ACM CHI 2023',
@@ -58,7 +58,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-admitted-to-masters-programs-in-robotics-at-both-eth-zürich-and-epfl",
-          title: 'Admitted to Masters programs in Robotics at both ETH Zürich and EPFL',
+          title: '🎉 Admitted to Masters programs in Robotics at both ETH Zürich and EPFL...',
           description: "",
           section: "News",},{id: "news-the-officemate-team-unimelb-won-1st-place-in-the-office-assistant-robot-competition-at-hri-2024",
           title: '🏆 The ‘OfficeMate’ (Team UniMelb) won 1st-place in the Office Assistant Robot Competition...',
@@ -74,10 +74,10 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
             },},{id: "news-began-my-masters-studies-in-robotics-systems-and-control-rsc-at-eth-zürich",
-          title: 'Began my Masters studies in Robotics, Systems and Control (RSC) at ETH Zürich...',
+          title: '📖 Began my Masters studies in Robotics, Systems and Control (RSC) at ETH...',
           description: "",
           section: "News",},{id: "news-attended-swiss-robotics-day-2024-in-basel-switzerland",
-          title: 'Attended Swiss Robotics Day 2024 in Basel, Switzerland',
+          title: '🤖 Attended Swiss Robotics Day 2024 in Basel, Switzerland',
           description: "",
           section: "News",},{id: "news-a-full-paper-accepted-at-acm-ieee-hri-2025",
           title: '🎉 A full paper accepted at ACM/IEEE HRI 2025',
@@ -93,7 +93,10 @@ ninja.data = [{
           title: '🏆 Won the best-project prize in the task - Gaussian Process Regression for...',
           description: "",
           section: "News",},{id: "news-began-my-semester-thesis-supervised-by-prof-davide-scaramuzza-in-the-robotics-and-perception-group-university-of-zürich",
-          title: 'Began my Semester Thesis supervised by Prof. Davide Scaramuzza in the Robotics and...',
+          title: '🛰 Began my Semester Thesis supervised by Prof. Davide Scaramuzza in the Robotics...',
+          description: "",
+          section: "News",},{id: "news-began-my-master-s-thesis-as-a-visiting-student-researcher-at-berkeley-ai-research-bair-supervised-by-prof-jitendra-malik-uc-berkeley-and-co-supervised-by-prof-stelian-coros-of-the-computational-robotics-lab-eth-zürich",
+          title: '🦾 Began my Master’s Thesis as a visiting student researcher at Berkeley AI...',
           description: "",
           section: "News",},{id: "projects-deep-rl-for-motion-imitation",
           title: 'Deep RL for Motion Imitation',
