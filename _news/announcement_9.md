@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-30 15:59:00-0400
+date: 2025-01-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-🤖 Attended [Swiss Robotics Day](https://swissroboticsday.ch/) 2024 in Basel, Switzerland
+🎉 **"Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations"** is accepted at HRI 2025!

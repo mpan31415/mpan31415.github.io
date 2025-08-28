@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Graduated from The University of Melbourne with a Bachelor of Science degree in Mechatronics Engineering (**First-Class Honours**)
+🎓 Graduated from BSc. Mechatronics Engineering (University of Melbourne) with **First-Class Honours**
