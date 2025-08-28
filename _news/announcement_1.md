@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 **"Variable Grasp Pose and Commitment for Trajectory Optimization"** is accepted at HORA 2023!
+🎉 [Variable Grasp Pose and Commitment for Trajectory Optimization](papers/2023/HORA23_TrajOpt.pdf) is accepted at HORA 2023!
