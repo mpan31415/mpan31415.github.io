@@ -44,59 +44,32 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-full-paper-accepted-at-ieee-hora-2023",
-          title: '🎉 A full paper accepted at IEEE HORA 2023',
+        },{id: "news-variable-grasp-pose-and-commitment-for-trajectory-optimization-is-accepted-at-hora-2023",
+          title: '🎉 “Variable Grasp Pose and Commitment for Trajectory Optimization” is accepted at HORA...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "news-graduated-from-the-university-of-melbourne-with-a-bachelor-of-science-degree-in-mechatronics-engineering-first-class-honours",
-          title: '🎓 Graduated from The University of Melbourne with a Bachelor of Science degree...',
+          section: "News",},{id: "news-graduated-from-bsc-mechatronics-engineering-university-of-melbourne-with-first-class-honours",
+          title: '🎓 Graduated from BSc. Mechatronics Engineering (University of Melbourne) with First-Class Honours',
           description: "",
-          section: "News",},{id: "news-a-late-breaking-paper-accepted-at-acm-chi-2023",
-          title: '🎉 A late-breaking paper accepted at ACM CHI 2023',
+          section: "News",},{id: "news-facevis-exploring-a-robot-s-face-for-affective-visualisation-design-is-accepted-at-chi-2023",
+          title: '🎉 “FaceVis: Exploring a Robot’s Face for Affective Visualisation Design” is accepted at...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-admitted-to-masters-programs-in-robotics-at-both-eth-zürich-and-epfl",
-          title: '🎉 Admitted to Masters programs in Robotics at both ETH Zürich and EPFL...',
+          section: "News",},{id: "news-team-unimelb-s-entry-officemate-won-1st-place-in-the-office-assistant-robot-competition-at-hri-2024",
+          title: '🏆 Team UniMelb’s entry “OfficeMate” won 1st-place in the Office Assistant Robot Competition...',
           description: "",
-          section: "News",},{id: "news-the-officemate-team-unimelb-won-1st-place-in-the-office-assistant-robot-competition-at-hri-2024",
-          title: '🏆 The ‘OfficeMate’ (Team UniMelb) won 1st-place in the Office Assistant Robot Competition...',
+          section: "News",},{id: "news-effects-of-shared-control-on-cognitive-load-and-trust-in-teleoperated-trajectory-tracking-is-accepted-by-ra-l",
+          title: '🎉 “Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory...',
           description: "",
-          section: "News",},{id: "news-a-paper-accepted-by-ieee-robotics-and-automation-letters-ra-l",
-          title: '🎉 A paper accepted by IEEE Robotics and Automation Letters (RA-L)',
+          section: "News",},{id: "news-a-review-of-differentiable-simulators-is-accepted-by-ieee-access",
+          title: '🎉 “A Review of Differentiable Simulators” is accepted by IEEE Access!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
-            },},{id: "news-a-paper-accepted-by-ieee-access",
-          title: '🎉 A paper accepted by IEEE Access',
+          section: "News",},{id: "news-using-fitts-law-to-benchmark-assisted-human-robot-performance-is-accepted-at-hri-2025",
+          title: '🎉 “Using Fitts’ Law to Benchmark Assisted Human-Robot Performance” is accepted at HRI...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "news-began-my-masters-studies-in-robotics-systems-and-control-rsc-at-eth-zürich",
-          title: '📖 Began my Masters studies in Robotics, Systems and Control (RSC) at ETH...',
+          section: "News",},{id: "news-officemate-pilot-evaluation-of-an-office-assistant-robot-is-accepted-at-hri-2025",
+          title: '🎉 “OfficeMate: Pilot Evaluation of an Office Assistant Robot” is accepted at HRI...',
           description: "",
-          section: "News",},{id: "news-attended-swiss-robotics-day-2024-in-basel-switzerland",
-          title: '🤖 Attended Swiss Robotics Day 2024 in Basel, Switzerland',
-          description: "",
-          section: "News",},{id: "news-a-full-paper-accepted-at-acm-ieee-hri-2025",
-          title: '🎉 A full paper accepted at ACM/IEEE HRI 2025',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_10/";
-            },},{id: "news-two-late-breaking-papers-accepted-at-acm-ieee-hri-2025",
-          title: '🎉 Two late-breaking papers accepted at ACM/IEEE HRI 2025',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_11/";
-            },},{id: "news-won-the-best-project-prize-in-the-task-gaussian-process-regression-for-air-pollution-prediction-for-the-course-probabilistic-ai-taught-by-prof-andreas-krause-at-eth-zürich",
-          title: '🏆 Won the best-project prize in the task - Gaussian Process Regression for...',
-          description: "",
-          section: "News",},{id: "news-began-my-semester-thesis-supervised-by-prof-davide-scaramuzza-in-the-robotics-and-perception-group-university-of-zürich",
-          title: '🛰 Began my Semester Thesis supervised by Prof. Davide Scaramuzza in the Robotics...',
-          description: "",
-          section: "News",},{id: "news-began-my-master-s-thesis-as-a-visiting-student-researcher-at-berkeley-ai-research-bair-supervised-by-prof-jitendra-malik-uc-berkeley-and-co-supervised-by-prof-stelian-coros-of-the-computational-robotics-lab-eth-zürich",
-          title: '🦾 Began my Master’s Thesis as a visiting student researcher at Berkeley AI...',
+          section: "News",},{id: "news-assisting-mocap-based-teleoperation-of-robot-arm-using-augmented-reality-visualisations-is-accepted-at-hri-2025",
+          title: '🎉 “Assisting MoCap-Based Teleoperation of Robot Arm using Augmented Reality Visualisations” is accepted...',
           description: "",
           section: "News",},{id: "projects-deep-rl-for-motion-imitation",
           title: 'Deep RL for Motion Imitation',
