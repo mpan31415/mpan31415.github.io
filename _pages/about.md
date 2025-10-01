@@ -24,4 +24,4 @@ Previously, I worked on rapid real-world policy learning using differentiable si
 
 My current research interests revolve around designing novel **robot learning** frameworks through **efficient real-world interaction** to achieve agile and adaptive behaviors in complex and dynamic real-world environments.
 
-**I am currently seeking PhD positions starting Fall 2026!** Feel free to email me ([jiapan@student.ethz.ch](mailto:jiapan@student.ethz.ch)) for research collaborations or any questions.
+**I am currently seeking PhD positions starting Fall 2026!**
