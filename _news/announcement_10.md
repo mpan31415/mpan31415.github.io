@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 [Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation](https://openreview.net/forum?id=vyYyxq2P2B&noteId=yYhHbKbgAm){:target="_blank"} is accepted at CoRL 2025 (Resource-Rational Robot Learning workshop)!
+🎉 [Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation](https://rational-robots.github.io/papers/CoRL25_Policy_Adaptation%20-%20Michael%20Pan.pdf){:target="_blank"} is accepted to **CoRL 2025** (Resource-Rational Robot Learning workshop)!
