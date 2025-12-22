@@ -729,7 +729,9 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
+      .preview img {
+        max-width: 200px;
+        height: auto;
       }
 
       .abbr {
@@ -770,7 +772,9 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
+          color: var(--global-theme-color);
+          font-weight: 600;
+          border-bottom: 1px solid var(--global-theme-color);
           font-style: normal;
         }
 
