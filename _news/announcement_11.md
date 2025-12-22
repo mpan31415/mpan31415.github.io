@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 [Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation](https://rpg.ifi.uzh.ch/docs/Arxiv25_Pan.pdf){:target="_blank"} is accepted to **IEEE Robotics and Automation Letters (RA-L)**, with oral presentation at **ICRA 2026**!
+🎉 [Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation](https://rpg.ifi.uzh.ch/docs/Arxiv25_Pan.pdf){:target="_blank"} is accepted to **IEEE Robotics and Automation Letters (RA-L)**, with oral presentation at **ICRA 2026**

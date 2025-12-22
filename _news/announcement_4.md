@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 Team UniMelb's entry "OfficeMate" won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at **HRI 2024**!
+🏆 Team UniMelb's entry "OfficeMate" won **1st-place** in the [Office Assistant Robot Competition](https://hri2024c.web.app/hri2014rc3.html) at **HRI 2024**
