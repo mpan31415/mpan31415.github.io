@@ -35,7 +35,7 @@ ninja.data = [{
           section: "News",},{id: "news-team-unimelb-s-entry-officemate-won-1st-place-in-the-office-assistant-robot-competition-at-hri-2024",
           title: '🏆 Team UniMelb’s entry “OfficeMate” won 1st-place in the Office Assistant Robot Competition...',
           description: "",
-          section: "News",},{id: "news-effects-of-shared-control-on-cognitive-load-and-trust-in-teleoperated-trajectory-tracking-is-accepted-to-ieee-robotics-and-automation-letters-ra-l-with-oral-presentation-at-iros-2025",
+          section: "News",},{id: "news-effects-of-shared-control-on-cognitive-load-and-trust-in-teleoperated-trajectory-tracking-is-accepted-to-ieee-robotics-and-automation-letters-ra-l-with-oral-presentation-at-iros-2024",
           title: '🎉 Effects of Shared Control on Cognitive Load and Trust in Teleoperated Trajectory...',
           description: "",
           section: "News",},{id: "news-a-review-of-differentiable-simulators-is-accepted-to-ieee-access",
